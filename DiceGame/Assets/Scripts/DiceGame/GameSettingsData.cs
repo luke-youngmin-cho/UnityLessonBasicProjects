@@ -1,0 +1,8 @@
+public enum GameSettingsData{
+    INIT_DICE_NUMBER = 40,
+    INIT_GOLDEN_DICE_NUMBER = 1,
+    INIT_STAR_TILE_VALUE = 3,
+
+    DICE_ANIMATION_TIME = 3,
+    DICE_ANIMATION_FINISH_DELAY = 1,
+}
